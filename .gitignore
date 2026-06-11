@@ -1,0 +1,4 @@
+.playwright-mcp/
+*.png
+!images/**/*.png
+preview/

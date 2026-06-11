@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Sunday worship in the sanctuary">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#482064"/>
+      <stop offset="1" stop-color="#0e6f6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <circle cx="1024" cy="144" r="180" fill="#ffffff" opacity="0.07"/>
+  <circle cx="192" cy="576" r="240" fill="#ffffff" opacity="0.06"/>
+  <circle cx="704" cy="648" r="120" fill="#ffffff" opacity="0.05"/>
+  <rect x="550" y="300" width="180" height="34" rx="17" fill="#ffffff" opacity="0.22"/>
+  <text x="640" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" letter-spacing="2" fill="#ffffff">MOCK PHOTO</text>
+  <text x="640" y="386" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-style="italic" fill="#ffffff" opacity="0.95">Sunday worship in the sanctuary</text>
+</svg>
